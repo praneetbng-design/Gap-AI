@@ -1,0 +1,18 @@
+{
+  "name": "gap-ai",
+  "version": "1.0.0",
+  "description": "Gap AI - Student Growth and Academic Performance Intelligence Platform",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd server && npm run build && cd ../client && npm run build",
+    "start": "cd server && npm run start",
+    "db:seed": "cd server && npm run db:seed",
+    "test": "cd server && npm run test"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

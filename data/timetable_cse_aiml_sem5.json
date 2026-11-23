@@ -1,0 +1,74 @@
+[
+  {
+    "day": "Monday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Software Engineering", "code": "BCS501", "faculty": "Prof. Sheryl Betsy", "room": "LH-201" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Theory of Computation", "code": "BCS503", "faculty": "Mrs. Apoorva D", "room": "LH-201" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Image and Video Processing", "code": "BCI515D", "faculty": "Dr. R. Ezhilan", "room": "LH-201" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Research Methodology and IP", "code": "BRMK557", "faculty": "Prof. Mukesh M", "room": "LH-201" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "Computer Networks", "code": "BCS502", "faculty": "Mrs. Malini P", "room": "LH-201" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "Theory of Computation", "code": "BCS503", "faculty": "Mrs. Apoorva D", "room": "LH-201" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "Image and Video Processing", "code": "BCI515D", "faculty": "Dr. R. Ezhilan", "room": "LH-201" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Image and Video Processing", "code": "BCI515D", "faculty": "Dr. R. Ezhilan", "room": "LH-201" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Computer Networks Lab", "code": "BCS502_Lab", "faculty": "Mrs. Malini P", "room": "Networks Lab" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Computer Networks Lab", "code": "BCS502_Lab", "faculty": "Mrs. Malini P", "room": "Networks Lab" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Computer Networks Lab", "code": "BCS502_Lab", "faculty": "Mrs. Malini P", "room": "Networks Lab" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "Computer Networks", "code": "BCS502", "faculty": "Mrs. Malini P", "room": "LH-201" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "Research Methodology and IP", "code": "BRMK557", "faculty": "Prof. Mukesh M", "room": "LH-201" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "Software Engineering", "code": "BCS501", "faculty": "Prof. Sheryl Betsy", "room": "LH-201" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Computer Networks", "code": "BCS502", "faculty": "Mrs. Malini P", "room": "LH-201" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Theory of Computation", "code": "BCS503", "faculty": "Mrs. Apoorva D", "room": "LH-201" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Environmental Studies & E-Waste Management", "code": "BCS508", "faculty": "Prof. Princy M", "room": "LH-201" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Computer Networks", "code": "BCS502", "faculty": "Mrs. Malini P", "room": "LH-201" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "Image and Video Processing", "code": "BCI515D", "faculty": "Dr. R. Ezhilan", "room": "LH-201" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "Mini Project", "code": "BCI586", "faculty": "Prof. Mukesh M", "room": "Project Lab" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "Mini Project", "code": "BCI586", "faculty": "Prof. Mukesh M", "room": "Project Lab" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Data Visualization Lab", "code": "BAIL504", "faculty": "Prathyusha G", "room": "AI Lab" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Data Visualization Lab", "code": "BAIL504", "faculty": "Prathyusha G", "room": "AI Lab" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Data Visualization Lab", "code": "BAIL504", "faculty": "Prathyusha G", "room": "AI Lab" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Research Methodology and IP", "code": "BRMK557", "faculty": "Prof. Mukesh M", "room": "LH-201" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "Software Engineering", "code": "BCS501", "faculty": "Prof. Sheryl Betsy", "room": "LH-201" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "Mini Project", "code": "BCI586", "faculty": "Prof. Mukesh M", "room": "Project Lab" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "Mini Project", "code": "BCI586", "faculty": "Prof. Mukesh M", "room": "Project Lab" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Theory of Computation", "code": "BCS503", "faculty": "Mrs. Apoorva D", "room": "LH-201" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Environmental Studies & E-Waste Management", "code": "BCS508", "faculty": "Prof. Princy M", "room": "LH-201" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Computer Networks", "code": "BCS502", "faculty": "Mrs. Malini P", "room": "LH-201" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Software Engineering", "code": "BCS501", "faculty": "Prof. Sheryl Betsy", "room": "LH-201" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "Music", "code": "BMUK559", "faculty": "Prof. Sheryl Betsy", "room": "Seminar Hall" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "Music", "code": "BMUK559", "faculty": "Prof. Sheryl Betsy", "room": "Seminar Hall" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "Mentoring", "code": "MENTOR", "faculty": "Assigned Mentors", "room": "Mentor Rooms" }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "periods": [
+      { "period": 1, "time": "9:00 AM - 10:00 AM", "subject": "Image and Video Processing", "code": "BCI515D", "faculty": "Dr. R. Ezhilan", "room": "LH-201" },
+      { "period": 2, "time": "10:00 AM - 11:00 AM", "subject": "Software Engineering", "code": "BCS501", "faculty": "Prof. Sheryl Betsy", "room": "LH-201" },
+      { "period": 3, "time": "11:10 AM - 12:10 PM", "subject": "Research Methodology and IP", "code": "BRMK557", "faculty": "Prof. Mukesh M", "room": "LH-201" },
+      { "period": 4, "time": "12:10 PM - 1:10 PM", "subject": "Theory of Computation", "code": "BCS503", "faculty": "Mrs. Apoorva D", "room": "LH-201" },
+      { "period": 5, "time": "1:40 PM - 2:40 PM", "subject": "No class", "code": "N/A", "faculty": "-", "room": "-" },
+      { "period": 6, "time": "2:40 PM - 3:40 PM", "subject": "No class", "code": "N/A", "faculty": "-", "room": "-" },
+      { "period": 7, "time": "3:40 PM - 4:40 PM", "subject": "No class", "code": "N/A", "faculty": "-", "room": "-" }
+    ]
+  }
+]
